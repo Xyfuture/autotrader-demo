@@ -1,0 +1,7 @@
+# paper trading
+CCXT:OKX:
+  api_key: ""
+  secret: ""
+  password: ""
+  sandbox_mode: 'True'
+
