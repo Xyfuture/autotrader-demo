@@ -10,8 +10,8 @@ instrument = 'EURUSD=X'
 data = get_data.fetch(
     instrument=instrument, 
     granularity='1h', 
-    start_time=datetime(2021, 1, 1), 
-    end_time=datetime(2021, 3, 1),
+    start_time=datetime(2022, 4, 1),
+    end_time=datetime(2022, 5, 1),
 )
 
 # Construct indicators dictionary
